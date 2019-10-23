@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5727ce04-02be-4335-ad3a-260998a5e199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad2/controlador/actividad2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad2/modelo/Empresa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad2/modelo/Persona.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad1/Banco.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad1/Cuenta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/modelo/Cuenta.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad1/Ventanilla.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/vista/Ventanilla.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +35,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ActividadesKotlin1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Actividad1.modelo" />
+      <recent name="Actividad1.vista" />
+      <recent name="Actividad1.controlador" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="Actividad1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ActividadesKotlin2" />
       <option name="VM_PARAMETERS" />
@@ -56,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ActividadesKotlin2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Actividad1.MainKt" />
       </list>
     </recent_temporary>
@@ -73,7 +101,9 @@
       <option name="presentableId" value="Default" />
       <updated>1571757471499</updated>
       <workItem from="1571757474351" duration="4189000" />
-      <workItem from="1571816072077" duration="1253000" />
+      <workItem from="1571816072077" duration="2296000" />
+      <workItem from="1571827896515" duration="669000" />
+      <workItem from="1571828596157" duration="13088000" />
     </task>
     <servers />
   </component>

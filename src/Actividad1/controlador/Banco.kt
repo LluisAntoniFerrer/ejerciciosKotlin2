@@ -1,7 +1,10 @@
-package Actividad1
+package Actividad1.Actividad1.controlador
+
+import Actividad1.Actividad1.modelo.Cuenta
+import Actividad1.Actividad1.vista.Ventanilla
 
 public class Banco(){
-    fun createAcount(saldo: Int):Cuenta= Cuenta(saldo);
+    fun createAcount(saldo: Int): Cuenta = Cuenta(saldo);
     fun getBalance(cuenta: Cuenta)= cuenta.saldo;
     fun deposit(cuenta: Cuenta, money: Int){ cuenta.saldo += money};
     fun withdrar(cuenta: Cuenta, money: Int){ cuenta.saldo -= money};

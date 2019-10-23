@@ -1,4 +1,4 @@
-package Actividad1
+package Actividad1.Actividad1.modelo
 
 data class Cuenta(var saldo: Int){
     override fun toString():String{

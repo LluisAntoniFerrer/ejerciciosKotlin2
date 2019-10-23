@@ -1,4 +1,4 @@
-package Actividad1
+package Actividad1.Actividad1.vista
 
 class Ventanilla(){
     fun mostrarEnLinea(datos: String){
