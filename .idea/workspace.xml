@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5727ce04-02be-4335-ad3a-260998a5e199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Actividad3/controlador/BancoAhorro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/CajaAhorra.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/Cuenta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/PlazoFijo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad4/controlador/Actividad4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad5/controlador/Actividad5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad5/modelo/Dado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad6/controlador/Actividad6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad6/modelo/Paises.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -118,7 +112,7 @@
       <workItem from="1572259915856" duration="122000" />
       <workItem from="1572263019302" duration="81000" />
       <workItem from="1572263348024" duration="749000" />
-      <workItem from="1572363773161" duration="3126000" />
+      <workItem from="1572363773161" duration="4803000" />
     </task>
     <servers />
   </component>
