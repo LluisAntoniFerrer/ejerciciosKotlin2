@@ -1,19 +1,16 @@
 import Actividad1.Actividad1.controlador.Banco
-import Actividad2.controlador.actividad2
+import Actividad4.controlador.Actividad4
+import Actividad5.controlador.Actividad5
 
 fun main(){
-    //actividad1();
-    actividad2().menu();
+    //Banco().main();
+    //actividad2().menu();
+    //BancoAhorro().main();
+    //Actividad4().main();
+    Actividad5().main();
 
 
-}
-fun actividad1(){
-    // Pruebas actividad 1
-    var banco = Banco();
-    var cuenta1 = banco.createAcount(1000);
-    banco.mostrar(banco.getBalance(cuenta1).toString(),"ln");
-    banco.deposit(cuenta1,5000);
-    banco.withdrar(cuenta1, 500);
-    banco.mostrar(banco.getBalance(cuenta1).toString(),"ln");
-    cuenta1.toString();
+
+
+
 }

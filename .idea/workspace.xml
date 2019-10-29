@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5727ce04-02be-4335-ad3a-260998a5e199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad2/controlador/actividad2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad2/modelo/Empresa.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad2/modelo/Persona.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad3/controlador/BancoAhorro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/CajaAhorra.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/Cuenta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad3/modelo/PlazoFijo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad4/controlador/Actividad4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad5/controlador/Actividad5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividad5/modelo/Dado.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actividad1/Banco.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actividad1/Cuenta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/modelo/Cuenta.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actividad1/Ventanilla.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/vista/Ventanilla.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad1/controlador/Banco.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -34,14 +36,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ActividadesKotlin1" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.22859922" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Actividad4.controlador" />
       <recent name="Actividad1.modelo" />
       <recent name="Actividad1.vista" />
       <recent name="Actividad1.controlador" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Actividad4/controlador" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,7 +110,15 @@
       <workItem from="1571757474351" duration="4189000" />
       <workItem from="1571816072077" duration="2296000" />
       <workItem from="1571827896515" duration="669000" />
-      <workItem from="1571828596157" duration="13088000" />
+      <workItem from="1571828596157" duration="13229000" />
+      <workItem from="1571845899700" duration="1736000" />
+      <workItem from="1571852091990" duration="19000" />
+      <workItem from="1571856158618" duration="805000" />
+      <workItem from="1571931506841" duration="2269000" />
+      <workItem from="1572259915856" duration="122000" />
+      <workItem from="1572263019302" duration="81000" />
+      <workItem from="1572263348024" duration="749000" />
+      <workItem from="1572363773161" duration="3126000" />
     </task>
     <servers />
   </component>
